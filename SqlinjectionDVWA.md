@@ -7,7 +7,8 @@ User Id -> 1
 ### Test Vulnerability
 
 ```bash
- %' or '1'='1 ```
+ %' or '1'='1 
+```
  (Always True Cond.) [Null id with % and then always true 1=1]
 
 ### Database Version Selection-->
