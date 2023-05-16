@@ -52,6 +52,16 @@ mysql ``` exit``` now
 ```bash
 sudo service apache2 start
 ```
+
+my php version 8.1. you have deferent.
+check you php version. open new terminal  write command 
+
+```bash
+cd /etc/php/
+```
+ls (show all file and folders in this directory)
+
+
 ```bash
 sudo nano /etc/php/8.1/apache2/php.ini
 
