@@ -26,6 +26,8 @@ sudo cp config.inc.php.dist config.inc.php
 ```bash
 sudo nano config.inc.php
 ```
+ save (ctrl+x) yes(y) press enter
+
 ```bash
 sudo service mysql start
 ```
