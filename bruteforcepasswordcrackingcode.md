@@ -1,6 +1,7 @@
 # Brute force password cracking code 
   __using C language__
-
+##### the length of passwords should be equal to 6 or 10. the password could be any combination of the 0 to 9 digits alphabet only small a to z. special characters &,*,#.
+Example the password is : ``` vatiza1920```
 ``` bash
 #include <stdio.h>
 #include <string.h>
