@@ -13,6 +13,7 @@ sudo chmod 777
 sudo chmod 775
 ```
 **Extension Manager**
+
 [https://prnt.sc/_76DAHjcnsd7](https://prnt.sc/_76DAHjcnsd7)  
 [https://prnt.sc/6pyGlm_1nf0w](https://prnt.sc/6pyGlm_1nf0w)
 
@@ -74,5 +75,4 @@ Run KVM Virtual Machines Manager
 	Run **sudo virt-manager*
 ```
 ## Best Ubuntu Wallpaper
-[Wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
-![wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
+![Wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
