@@ -75,4 +75,5 @@ Run KVM Virtual Machines Manager
 	Run **sudo virt-manager*
 ```
 ## Best Ubuntu Wallpaper
-![Wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
+[Wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
+![wallpaper](https://pasteboard.co/FT74uX4FQTSB.jpg)
