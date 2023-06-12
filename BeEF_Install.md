@@ -1,11 +1,12 @@
 #BeEF Install
-
-
-1. Download BeEF
+1. Download BeEF 
+2. copy git address
+3. paste git clone 
 ```bash
 https://github.com/beefproject/beef
 ```
 ### Open Now Terminal
+
 2.goto beef directory
 ```bash
 cd beef
@@ -32,7 +33,7 @@ find now UI address and hook script
 http://10.0.2.15:3000/ui/panel
 http://10.0.2.15:3000/hook.js
 ```
-5.copy ui/panel address paste browser url field
+5. copy ui/panel address paste browser url field
 6. Login user and password.
-7.Login Successed
+7. Login Successed
 #Done install BeEF
