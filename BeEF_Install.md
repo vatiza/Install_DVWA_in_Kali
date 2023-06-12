@@ -1,4 +1,4 @@
-#BeEF Install
+# BeEF Install on Kali Linux
 1. Download BeEF 
 2. copy git address
 3. paste git clone 
